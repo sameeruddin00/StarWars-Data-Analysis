@@ -1,4 +1,4 @@
-# Star Wars Dataset Analysis in 
+# Star Wars Dataset Analysis in R
 
 ## Project Overview
 
