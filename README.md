@@ -28,4 +28,4 @@ This project explores the `starwars` dataset using various data analysis techniq
 - reshape2  
 
 ## Results
-This project provides insights into the dataset through statistical measures and clustering outcomes. The visualization of numeric attributes and clustering results helps understand patterns among Star Wars characters.
+This project provides insights into the dataset through statistical measures and clustering outcomes. The visualization of numeric attributes and clustering results helps understand patterns among Star Wars characters
