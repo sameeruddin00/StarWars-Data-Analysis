@@ -20,12 +20,6 @@ This project explores the `starwars` dataset using various data analysis techniq
   - Used the Elbow Method to determine the optimal number of clusters  
   - Visualized results and identified patterns  
 
-## Technologies Used
-
-- R  
-- dplyr  
-- ggplot2  
-- reshape2  
 
 ## Results
 This project provides insights into the dataset through statistical measures and clustering outcomes. The visualization of numeric attributes and clustering results helps understand patterns among Star Wars characters
