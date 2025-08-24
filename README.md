@@ -19,6 +19,12 @@ This project explores the `starwars` dataset using various data analysis techniq
   - Applied clustering on cleaned numeric attributes  
   - Used the Elbow Method to determine the optimal number of clusters  
   - Visualized results and identified patterns  
+## Technologies Used
+
+- R  
+- dplyr  
+- ggplot2  
+- reshape2  
 
 
 ## Results
